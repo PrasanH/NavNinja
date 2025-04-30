@@ -26,4 +26,4 @@ Save your time ⏳
 
 ### 🙌 Support
 
-If this project helped you in any way, consider supporting it via [PayPal](https://www.paypal.me/yourusername](https://www.paypal.com/qrcodes/p2pqrc/7RX7QKCEKEABW).  
+If this project helped you in any way, consider supporting it 💰🙏 via [PayPal](https://www.paypal.com/qrcodes/p2pqrc/7RX7QKCEKEABW).  
