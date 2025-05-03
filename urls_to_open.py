@@ -3,7 +3,7 @@
 
 url_dict = {
 "DS_Linkedin_DE": "https://www.linkedin.com/jobs/search/?currentJobId=4219443200&distance=25&f_E=2%2C3&f_TPR=r86400&f_WT=1%2C3%2C2&geoId=101282230&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true",
-"DA_Linkedin_DE" : "https://www.linkedin.com/jobs/search/?currentJobId=4219194509&distance=25&f_E=2%2C3&f_TPR=r86400&f_WT=1%2C3%2C2&geoId=101282230&keywords=data%20analyst&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true" ,
+"DA_Linkedin_DE" : "https://www.linkedin.com/jobs/search/?currentJobId=4217405140&f_E=2%2C3&f_TPR=r86400&geoId=101282230&keywords=data%20analyst&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true" ,
 "ML_Linkedin_DE" : "https://www.linkedin.com/jobs/search/?currentJobId=4217304263&distance=25&f_E=2%2C3&f_TPR=r86400&f_WT=1%2C3%2C2&geoId=101282230&keywords=machine%20learning&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true" ,
 "DA_Glassdoor_DE" : "https://www.glassdoor.de/Job/deutschland-data-analyst-jobs-SRCH_IL.0,11_IN96_KO12,24.htm?sortBy=date_desc" ,
 "DS_Glassdoor_DE" : "https://www.glassdoor.de/Job/deutschland-data-scientist-jobs-SRCH_IL.0,11_IN96_KO12,26.htm?sortBy=date_desc" ,

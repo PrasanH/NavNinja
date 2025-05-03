@@ -1,13 +1,14 @@
-MIT License
+MIT License (Modified)
 
 Copyright (c) 2025 Prasanna D H
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+in the Software with the following restrictions:  
+
+1. Attribution: Any public or commercial use must give visible credit to the author ("P") in the user interface or documentation.  
+2. Commercial Use: Commercial use of this software is only permitted with prior written permission from the author.  
+3. Profit Sharing: If this software or its derivatives generate revenue, the author must be contacted to negotiate fair compensation.  
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
