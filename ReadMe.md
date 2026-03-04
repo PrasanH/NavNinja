@@ -35,6 +35,9 @@ Commercial use requires prior permission. See [LICENSE](./LICENSE) for details.
 
 ## Some other UseCases: 
 **Job Search:** save urls with your desired filters and positions, and location. 
+Check it here: 
+https://drive.google.com/file/d/1yJzhLrzphvE_T-PqcxoK6CD6aYv5luC2/view?usp=sharing
+
 
 **Track product(s**): Checking out a product or a range of products for a drop in price ? Add the urls here from multiple stores.  
 Example: ( https://www.amazon.de/s?k=samsung+s25&rh=n%3A562066%2Cp_n_feature_thirty-four_browse-bin%3A81335050031&s=price-asc-rank&dc&ds=v1%3AYFje5gv8B2qdxMAouRp3cKLjp1OyRwGP4EMjMkHAO9Y&crid=1YY5LZTJWLHU7&qid=1746008256&rnid=44358855031&sprefix=samsung+s25%2Caps%2C106&ref=sr_nr_p_n_feature_thirty-four_browse-bin_3 )
