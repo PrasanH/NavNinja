@@ -1,0 +1,49 @@
+# Configuration Template for Excel Links Opener
+# Copy this file to config.yaml and edit with your values
+
+excel:
+  # Path to your Excel file
+  # Use double backslashes (\\) or forward slashes (/) in Windows paths
+  # Example: "C:\\Users\\YourName\\Documents\\urls.xlsx"
+  # Example: "C:/Users/YourName/Documents/urls.xlsx"
+  file_path: "path/to/your/excel/file.xlsx"
+  
+  # Name of the sheet to read from
+  # This is case-sensitive and must match exactly
+  sheet_name: "Sheet1"
+  
+  # Name of the column containing URLs
+  # This is case-sensitive and must match the column header exactly
+  column_name: "URL"
+  
+  # Row range to read (Excel row numbers, 1-indexed)
+  # Row 1 is typically the header, data starts at row 2
+  # 
+  # Examples:
+  #   Read all rows: set both to null
+  #   Read rows 2-100: start_row: 2, end_row: 100
+  #   Read from row 50 to end: start_row: 50, end_row: null
+  #   Read first 20 data rows: start_row: 2, end_row: 21
+  #
+  start_row: null  # First row to read (null = start from beginning)
+  end_row: null    # Last row to read (null = read to end)
+
+browser:
+  # Path to Chrome executable
+  # Default Windows path: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  # Default Mac path: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+  # Default Linux path: "/usr/bin/google-chrome"
+  chrome_path: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+
+opening:
+  # Number of URLs to open in each batch
+  # Recommended: 4-8 (too many at once can overwhelm the browser)
+  batch_size: 4
+  
+  # Delay in seconds between batches
+  # Recommended: 3-5 seconds (gives time for pages to start loading)
+  delay_between_batches: 4
+  
+  # Maximum number of links to open (null = no limit)
+  # Example: max_limit: 20 will open only the first 20 links
+  max_limit: null
