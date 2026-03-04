@@ -1,0 +1,7 @@
+pandas>=1.5.0
+openpyxl>=3.0.0
+pyautogui>=0.9.50
+pyperclip>=1.8.0
+pyyaml>=6.0
+xlwings>=0.27.0
+pygetwindow>=0.0.9

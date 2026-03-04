@@ -1,0 +1,18 @@
+# Chrome Tabs to Excel - Configuration Template
+# Copy this to config.yaml and edit the values
+
+excel:
+  file_path: "path/to/your/file.xlsx"  # REQUIRED: Full path to Excel file
+  sheet_name: "Sheet1"                 # REQUIRED: Sheet name
+  column_name: "URL"                   # REQUIRED: Column name for URLs
+  start_row: 2                         # REQUIRED: Starting row (usually 2, row 1 is header)
+
+capture:
+  tab_switch_delay: 0.5    # Delay between switching tabs (increase if capture fails)
+  copy_delay: 0.3          # Delay after copying URL (increase if URLs not captured)
+  max_tabs: 20             # Maximum tabs to capture per window (safety limit)
+  countdown_seconds: 3     # Seconds to wait after ENTER (time to focus Chrome)
+
+browser:
+  chrome_path: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  # Optional: Chrome executable path (for future features)
